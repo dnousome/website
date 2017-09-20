@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Darryl Nousome</title>
+    <link>https://dnousome.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Darryl Nousome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Darryl Nousome</copyright>
+    <lastBuildDate>Sat, 15 Jul 2017 12:39:32 -0700</lastBuildDate>
+    <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting started with my website</title>
+      <link>https://dnousome.github.io/post/starting_up/</link>
+      <pubDate>Sat, 15 Jul 2017 12:39:32 -0700</pubDate>
+      
+      <guid>https://dnousome.github.io/post/starting_up/</guid>
+      <description>&lt;p&gt;Keeping track of my research/dissertation progress here! Trying to use Hugo with the academic theme!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
