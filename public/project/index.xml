@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Darryl Nousome</title>
+    <link>https://dnousome.github.io/project/</link>
+    <description>Recent content in Projects on Darryl Nousome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Darryl Nousome</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Air Pollution</title>
+      <link>https://dnousome.github.io/project/airpollution/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnousome.github.io/project/airpollution/</guid>
+      <description>&lt;p&gt;We are interested in the effects of air pollution on the Retina.&lt;/p&gt;
+
+&lt;p&gt;In order to do this we have geocoded all our participants&amp;rsquo; addresses using the
+&lt;a href=&#34;https://geoservices.tamu.edu&#34;&gt;
+    Geocoder provided by Texas A&amp;amp;M University GeoServices
+&lt;/a&gt; which takes addresses and returns latitude/longtitude&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
